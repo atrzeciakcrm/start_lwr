@@ -1,0 +1,8 @@
+{
+  "devName": "alex",
+  "label": "Alex",
+  "themeLayoutType": "Inner",
+  "component": {
+    "descriptor": "x/alex"
+  }
+}
